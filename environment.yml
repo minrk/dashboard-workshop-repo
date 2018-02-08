@@ -5,6 +5,7 @@ channels:
 dependencies:
   - jupyter_dashboards
   - jupyter_dashboards_bundlers
+  - ipywidgets=7
   - folium
   - plotly
   - beakerx
